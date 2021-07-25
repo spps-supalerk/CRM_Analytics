@@ -8,6 +8,6 @@
 
 ![ideate](ideate.png)
 
-![prototype](prototype.png)
+![prototype](prototype.jpeg)
 
 ![test](test.png)
